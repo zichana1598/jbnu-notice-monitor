@@ -1,8 +1,4 @@
-# Local agent instructions
 AGENTS.md
-
-# Local data
 data/
-
-# Local obsidian
 .obsidian/
+.venv/
